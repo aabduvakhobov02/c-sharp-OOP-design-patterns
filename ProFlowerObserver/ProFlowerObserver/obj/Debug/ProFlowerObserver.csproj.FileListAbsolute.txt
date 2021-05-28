@@ -1,0 +1,7 @@
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.csprojAssemblyReference.cache
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.csproj.CoreCompileInputs.cache
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe.config
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.pdb
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.pdb

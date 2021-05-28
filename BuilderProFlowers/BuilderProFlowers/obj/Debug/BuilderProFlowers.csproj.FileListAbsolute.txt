@@ -1,0 +1,21 @@
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe.config
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.pdb
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csprojAssemblyReference.cache
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csproj.CoreCompileInputs.cache
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.exe
+C:\Users\Abdubori\source\repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.pdb
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe.config
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.pdb
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csprojAssemblyReference.cache
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csproj.CoreCompileInputs.cache
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.exe
+D:\VS repos\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.pdb
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe.config
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.exe
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\bin\Debug\BuilderProFlowers.pdb
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csprojAssemblyReference.cache
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.csproj.CoreCompileInputs.cache
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.exe
+C:\Users\Abdubori\Desktop\BuilderProFlowers\BuilderProFlowers\obj\Debug\BuilderProFlowers.pdb

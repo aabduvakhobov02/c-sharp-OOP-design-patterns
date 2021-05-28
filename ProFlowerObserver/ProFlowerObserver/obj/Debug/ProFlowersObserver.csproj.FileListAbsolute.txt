@@ -1,0 +1,21 @@
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe.config
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.pdb
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csprojAssemblyReference.cache
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csproj.CoreCompileInputs.cache
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\source\repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.pdb
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe.config
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.pdb
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csprojAssemblyReference.cache
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csproj.CoreCompileInputs.cache
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.exe
+D:\VS repos\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.pdb
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csprojAssemblyReference.cache
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowersObserver.csproj.CoreCompileInputs.cache
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\obj\Debug\ProFlowerObserver.pdb
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe.config
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.exe
+C:\Users\Abdubori\Desktop\ProFlowerObserver\ProFlowerObserver\bin\Debug\ProFlowerObserver.pdb
